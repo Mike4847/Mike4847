@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate System Engineer Enthusiast</h3>
+<h3 align="center">Aspiring System Engineer and AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike4847&label=Profile%20views&color=0e75b6&style=flat" alt="mike4847" /> </p>
 
 
-- 🔭 I’m currently working on **Algorithm design**
+- 🔭 I’m currently working on **Audio Programming**
 
 - 🌱 I’m currently learning **Unsupervised Learning**
 
