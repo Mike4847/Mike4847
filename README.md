@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike4847&label=Profile%20views&color=0e75b6&style=flat" alt="mike4847" /> </p>
 
 
-- 🔭 I’m currently working on **Audio Programming**
+- 🔭 I’m currently working on **Embeded Systems**
 
-- 🌱 I’m currently learning **Unsupervised Learning**
+- 🌱 I’m currently learning **Audio graphs in XAudio**
 
 - 👯 I’m looking to collaborate on **System design**
 
