@@ -44,6 +44,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <p align="center">
+  <b>⚔️ Guiding Mantra</b><br/><br/>
+  <i>"Ars longa, vita brevis, occasio praeceps,<br/>
+  experimentum periculosum, iudicium difficile."</i><br/>
+  <sup>— Hippocrates · Art is long, life is short.</sup>
+</p>
  
  
 </p>
