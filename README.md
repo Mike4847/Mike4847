@@ -7,8 +7,6 @@
 - 🔭 I’m currently working on **Building a Wi-fi/PPOE Billing System**
 
 - 🌱 I’m currently learning **Implementing Custom Allocators(C++)**
-
-- 🌐 [__**Checkout my website**__](https://Mike4847.github.com)
   
 - 📫 How to reach me **elemanmichael911@gmail.com**
 
